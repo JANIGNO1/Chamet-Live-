@@ -2,11 +2,11 @@
 <rss version="2.0">
 <channel>
   <title>Chamet Live Official Feed</title>
-  <link>https://chamet.netlify.app/</link>
+  <link>https://chametlive.netlify.app/</link>
   <description>Latest updates and features of Chamet Live App.</description>
   <item>
     <title>Welcome to Chamet Live</title>
-    <link>https://chamet.netlify.app/</link>
+    <link>https://chametlive.netlify.app/</link>
     <description>Join our app and enjoy live streaming & 1v1 calls.</description>
   </item>
 </channel>

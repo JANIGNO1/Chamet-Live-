@@ -7,4 +7,4 @@ Disallow: /author/
 Disallow: /?s=
 Disallow: /*?*
 
-Sitemap: https://chamet.netlify.app/sitemap.xml
+Sitemap: https://chametlive.netlify.app/sitemap.xml
